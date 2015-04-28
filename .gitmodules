@@ -1,0 +1,6 @@
+[submodule "en"]
+	path = en
+	url = git@github.com:IgekoSC/ClowdsStorageplugin-docs-en.git
+[submodule "es"]
+	path = es
+	url = git@github.com:IgekoSC/ClowdsStorageplugin-docs-es.git
